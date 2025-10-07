@@ -1,4 +1,4 @@
-### AMP_ESP32_Command
+# AMP_ESP32_Command
 
 ## 機能
 SDカードにcommandsファイルをつくり、その中にkiritsu.raw, kiwotsuke.raw, rei.rawの3つのファイルをいれる。
